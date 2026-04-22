@@ -225,7 +225,7 @@ Supports both **email/password** and **Google One Tap** (`NEXT_PUBLIC_GOOGLE_CLI
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/medcortex.git
+git clone https://github.com/AliySoliman/Medical-Chatbot
 cd medcortex
 ```
 
